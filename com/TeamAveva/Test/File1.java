@@ -18,12 +18,12 @@ public class File1 {
 		int b = 40;
 		int c = 0;
 		int d =0;
-		int e;
+		int e,f;
 		
 		c = a / b;
 		d = c + b;
 		e = c + d;
-		f =. e + c;
+		f = e + c;
 		
 		System.out.println("The sum is: "+c); 
 				System.out.println("The sum is: "+d); 
