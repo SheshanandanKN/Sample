@@ -22,10 +22,14 @@ public class File1 {
 		
 		c = a / b;
 		d = c + b;
-		e = c + d; 
+		e = c + d;
+		f =. e + c;
 		
 		System.out.println("The sum is: "+c); 
 				System.out.println("The sum is: "+d); 
+System.out.println("The sum is: "+e);
+		System.out.println("The sum is: "+f); 
+
 
 		
 	}
