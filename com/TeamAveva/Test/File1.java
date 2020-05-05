@@ -13,7 +13,7 @@ public class File1 {
 
 	}
 	
-	public static void addNum() {
+	public static void addNumber() {
 		int a = 20;
 		int b = 40;
 		int c = 0;
