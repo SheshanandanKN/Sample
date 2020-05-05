@@ -9,7 +9,7 @@ public class File1 {
 		
 		System.out.println(str); 
 		
-		addNum();
+		addNumber();
 
 	}
 	
@@ -18,9 +18,11 @@ public class File1 {
 		int b = 40;
 		int c = 0;
 		int d =0;
+		int e;
 		
-		c = a + b;
-		d = c + b
+		c = a / b;
+		d = c + b;
+		e = c + d; 
 		
 		System.out.println("The sum is: "+c); 
 				System.out.println("The sum is: "+d); 
