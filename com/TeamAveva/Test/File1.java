@@ -5,7 +5,7 @@ public class File1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String str = "This is the first line of code in File1 for Team EkStep";
+		String str = "This is the first line of code in File1 for Team Cult";
 		
 		System.out.println(str); 
 		
@@ -23,7 +23,7 @@ public class File1 {
 		c = a / b;
 		d = c + b;
 		e = c + d;
-		f =. e + c;
+		
 		
 		System.out.println("The sum is: "+c); 
 				System.out.println("The sum is: "+d); 
